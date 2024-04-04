@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4645132edefd4c74968a0c941a98fb89, type: 3}
+  m_Name: Audio Database
+  m_EditorClassIdentifier: 
+  _items:
+  - Clip: {fileID: 8300000, guid: 36aacfa8213e9ec4c8d3533ffd7b4d98, type: 3}
+    Key: 0
+    FolderPath: Audio\
+    Name: 1.mp3
+    Preload: 1
+    _id: 7a085fc7-70f1-42ad-8d6c-2ae2fbe09af8
+  - Clip: {fileID: 8300000, guid: 2fd340623d8c5bc438573c3592a1d591, type: 3}
+    Key: 1
+    FolderPath: Audio\
+    Name: 2.mp3
+    Preload: 1
+    _id: 4117d9ce-0ed8-4689-ac2f-d6c56136828c
+  - Clip: {fileID: 8300000, guid: 5a285ef31d675094f95fbf6dfe55cac5, type: 3}
+    Key: 2
+    FolderPath: Audio\
+    Name: 3.mp3
+    Preload: 1
+    _id: 6c1d2ecd-d406-4538-9f80-63ef554470dc
+  - Clip: {fileID: 8300000, guid: c537d7d40d665f04184e42d4b92cd23e, type: 3}
+    Key: 3
+    FolderPath: Audio\
+    Name: 4.mp3
+    Preload: 1
+    _id: be15b2fc-6ff9-4b6c-b069-b1f6a6ecd7e5
+  - Clip: {fileID: 8300000, guid: c5b0d3224720bcb42b0a42d601c8ab2f, type: 3}
+    Key: 4
+    FolderPath: Audio\
+    Name: 5.mp3
+    Preload: 1
+    _id: 881ecde2-8047-4d38-b8cf-c85ffa11a613
+  - Clip: {fileID: 8300000, guid: e7da5252863a18b44bb1b5914957916f, type: 3}
+    Key: 7
+    FolderPath: Audio\
+    Name: multyashnyiy-zvuk-najatiya-na-knopku-30362 (1).mp3
+    Preload: 1
+    _id: a5d6ec59-561f-4f2b-8f5e-480be1e21b03
+  - Clip: {fileID: 8300000, guid: 88f62d6dea9d9a6489f3cfdbdd7c7120, type: 3}
+    Key: 6
+    FolderPath: Audio\
+    Name: Phone_Call_loop_.mp3
+    Preload: 1
+    _id: 170a4225-86c2-4d1d-9619-2ab11530dd1f
